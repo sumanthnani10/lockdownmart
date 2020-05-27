@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "555040585850",
+    "firebase_url": "https://lockdownmart.firebaseio.com",
+    "project_id": "lockdownmart",
+    "storage_bucket": "lockdownmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555040585850:android:bd591361634af47fbde3c3",
+        "android_client_info": {
+          "package_name": "com.freetimedevelopers.lockdownShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555040585850-bu3barjqm8fqcfbatib481lphpfqn99u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freetimedevelopers.lockdownShop",
+            "certificate_hash": "a740a718ac53b56ac36e2f27df7584dfc56f4ccf"
+          }
+        },
+        {
+          "client_id": "555040585850-7qf2t1lhj4otgg1ob045j4pi9dhpggeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freetimedevelopers.lockdownShop",
+            "certificate_hash": "8f510c26c253d9dc3fb58572cba716697ff82a6a"
+          }
+        },
+        {
+          "client_id": "555040585850-h3omrvi264kqhsolm8oq8r58a4ar4no3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVDDhvfrTk6fybaDA_JNT7jEntmRFXow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555040585850-h3omrvi264kqhsolm8oq8r58a4ar4no3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555040585850-8g0eiu7km6v1hgsljcc5kocbpkht2u3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freetimedevelopers.lockdownShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555040585850:android:997631ef2689fe18bde3c3",
+        "android_client_info": {
+          "package_name": "com.freetimedevelopers.lockdownmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555040585850-h3omrvi264kqhsolm8oq8r58a4ar4no3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVDDhvfrTk6fybaDA_JNT7jEntmRFXow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555040585850-h3omrvi264kqhsolm8oq8r58a4ar4no3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555040585850-8g0eiu7km6v1hgsljcc5kocbpkht2u3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freetimedevelopers.lockdownShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
